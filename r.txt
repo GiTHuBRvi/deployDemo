@@ -1,1 +1,15 @@
 repositpory means library
+
+
+git commands
+
+:---
+git init 
+
+/* .git folder work*/
+
+commit add push repo...
+ git add .html
+git add *.html
+git add .html
+flags -m save commit and modify that  in .git foldler
